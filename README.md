@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Currently A Student Of Grade 9<br>👨‍💻 A Professional Full Stack Web/App Developer & Designer<br>📩 Also a YT, LinkedIn & Instagram Content Creator<br>👨‍👨‍👦‍👦 Passionate In Open source contributions and Hackathons<br>💼 Open For Freelance Projects & SaaS<br>🙌 Teach & Guide other fellow developers
-
+👨‍🎓 Currently A Student Of Grade 9<br>👨‍💻 A Professional Full Stack Web/App Developer & Designer<br>📩 Also a YT, LinkedIn & Instagram Content Creator<br>👨‍👨‍👦‍👦 Passionate In Open source contributions and Hackathons<br>💼 Open For Freelance Projects & SaaS<br>🙌 Teach & Guide other fellow developers <br>💎 UPWORK (RISING TALENT)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash_prashanthi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-srinivasan-a57a61251) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Coding-Yogi) 
